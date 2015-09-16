@@ -1,7 +1,7 @@
 safe: false
 lsi: false
 source: .
-destination: ./site
+destination: ./_site
 layouts_dir: ./_layouts
 includes_dir: ./_includes
 keep_files: [css, images, js]
