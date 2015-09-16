@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="author" content="{{ site.author.name }}" />
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/pygment_trac.css">
+    <script src="{{ site.baseurl }}/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  </head>
+  <body>
+<!--
+  <div class="ovrhder">
+    <div class="margin" style="background-color: red;"></div>
+	   <div class="hdrimg">{{ site.title }}</div>
+   -->
+	<div class="margin">
+	&nbsp;
+	</div>
+
+    <div class="wrapper">
+
+
+
+	<section>
+
+      {{ content }}
+      </section>
+
+      <header>
+        <h1 class="header">{{ site.title }}</h1>
+        <p class="header">{{ site.tagline }}</p>
+        <!-- can we match this page to one of the loop below and not show it? -->
+        <ul>
+          {% for page in site.pages %}
+          <li><a href="{{ site.baseurl }}/{{ page.url }}">{{ page.alias }}</a></li>
+          {% endfor %}
+          <li><a href="https://docs.google.com/forms/d/19cytWbKCIrQpjir5Ie6vuu64XCzRX8uD60yPvJy8C14/viewform">Submit Problem</a>
+        </ul>
+
+		<div class="misc vcard">
+          <ul>
+            {% if site.download %}
+			      <li class="download"><a class="buttons" href="https://github.com/adb50/analyze-this/zipball/master">Download Zip</a>
+            {% endif %}
+
+            {% if site.author.twitter %}
+            <li class="twitter"><a class="twitter" href="http://twitter.com/{{ site.author.twitter }}/" rel="me" target="_blank">{{ site.author.twitter }}</a></li>
+            {% endif %}
+
+            {% if site.author.email %}
+            <li class="email"><a class="email" href="mailto:{{site.author.email}}">Email Us</a></li>
+            {% endif%}
+
+          </ul>
+        </div><!-- misc -->
+      </header>
+
+    </div>
+
+    <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
+  </body>
+</html>

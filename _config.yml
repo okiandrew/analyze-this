@@ -1,0 +1,49 @@
+safe: false
+lsi: false
+source: .
+destination: ./site
+layouts_dir: ./_layouts
+includes_dir: ./_includes
+keep_files: [css, images, js]
+
+baseurl: /analyze-this
+
+markdown: kramdown
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+maruku:
+  use_tex:    false
+  use_divs:   false
+  png_engine: blahtex
+  png_dir:    images/latex
+  png_url:    /images/latex
+
+kramdown:
+  auto_ids: true,
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_wrap: div
+    coderay_line_numbers: inline
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: style
+
+detach:  false
+port:    4000
+host:    127.0.0.1
+
+# Site Stuff
+title: Analyze This!
+tagline: A 2016 TRB Annual Meeting Workshop that puts timely planning problems in front of willing teams of analysts to come up with solutions
+
+author:
+ name: ADB50
+ github: ADB50
+ twitter: TRBAppCon
+ email: mailto:trbanalyzethis@googlegroups.com
