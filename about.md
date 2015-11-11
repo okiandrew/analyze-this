@@ -2,6 +2,7 @@
 layout: default
 title: About Analyze This!
 alias: About
+comments: false
 ---
 # The Workshop
 

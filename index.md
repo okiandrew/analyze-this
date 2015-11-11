@@ -2,6 +2,7 @@
 layout: default
 title: Analyze This! by ADB50
 alias: Home
+comments: true
 ---
 # Analyze This!  Three Unsolved Planning Mysteries
 
