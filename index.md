@@ -3,6 +3,7 @@ layout: default
 title: Analyze This! by ADB50
 alias: Home
 ---
+# Analyze This!  Three Unsolved Planning Mysteries
 
 **WANTED**: Planning mystery detectives of all types including planners, engineers, analysts, modelers, psychologists, researchers, + pedestrians.
 
@@ -14,19 +15,19 @@ Our world is changing and so are the questions being asked by companies, planner
 
 We selected three problems from dozens of submissions that range from corporate, local, and regional in scope and require a diversity of expertise to solve.  Working in small, problem specific teams, workshop participants will develop a strategy to share with the audience, compare and evaluate their peers, and then collectively develop some next steps and potential research directions.
 
-# Corporate Strategies to Reduce Single Occupancy Vehicle Trips: Coca-Cola’s Case Study
+## Corporate Strategies to Reduce Single Occupancy Vehicle Trips: Coca-Cola’s Case Study
 
 *Eric Ganther, Workplace 2020 Transportation Manager, Coca-Cola*
 
 Coca-Cola is seeking a 20% reduction in single occupancy vehicle trips by 2020 to meet climate, civic, and real estate goals.  Robust alternative programs currently exist that support telework, carpooling, transit, and bike riding, but will likely not meet their goal.  This group will formulate a travel demand management plan that can meet Coca-Cola’s vehicle trip reduction goal but is sensitive to Coca-Cola’s relationship with their employees and their reluctance to charge for parking.
 
-# Repurposing Travel Lanes for Multimodal Projects
+## Repurposing Travel Lanes for Multimodal Projects
 
 *Andy Nash, Green City Streets with Natalie Stiffler, City of Boulder*
 
 One of the many challenges associated with many sidewalk widening, bike lane, and transit lane projects is drivers’ and businesses’ concern for the potential of  increased congestion.  Using the City of Boulder’s recent Folsom Street Living Lab project as a case study, this group will devise a plan to evaluate the potential congestion impacts of reallocating roadway space.
 
-# Incorporating Connected and Autonomous Vehicle (C/AV) Technologies into the City of Edmonton Regional Travel Demand Model
+## Incorporating Connected and Autonomous Vehicle (C/AV) Technologies into the City of Edmonton Regional Travel Demand Model
 
 *Erin Toop, City of Edmonton*
 
