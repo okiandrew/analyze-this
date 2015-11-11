@@ -38,7 +38,7 @@
     <ul>
       <li><a href="/">Home</a></li>
       {% for page in site.pages %}
-        {% if page.alias != 'Home'}
+        {% if page.alias != 'Home' %}
           <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
         {% endif %}
       {% endfor %}
