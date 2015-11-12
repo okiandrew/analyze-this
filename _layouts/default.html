@@ -16,6 +16,7 @@
 
 </head>
 <body>
+Today's date is {{ date:'%Y%M%d' }}
 <!--
   <div class="ovrhder">
     <div class="margin" style="background-color: red;"></div>
@@ -39,9 +40,9 @@
       <!-- <li><a href="{{ site.baseurl }}">Home</a></li> -->
       {% assign sorted_pages = site.pages | sort:"sort" %}
       {% for page in sorted_pages %}
-        <!-- {% if page.alias != 'Ho   me' %} -->
+        {% if page.postdate =< date:'%Y%M%d' %}
           <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
-        <!-- {% endif %} -->
+        {% endif %}
       {% endfor %}
       <!-- <li><a href="https://docs.google.com/forms/d/19cytWbKCIrQpjir5Ie6vuu64XCzRX8uD60yPvJy8C14/viewform">Submit Problem</a>-->
     </ul>
