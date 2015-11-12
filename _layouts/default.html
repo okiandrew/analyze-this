@@ -37,7 +37,7 @@
     <!-- can we match this page to one of the loop below and not show it? -->
     <ul>
       <li><a href="{{ site.baseurl }}">Home</a></li>
-      {% for page in site.pages | sort: "name" %}
+      {% for page in site.pages | sort: "alias" %}
         {% if page.alias != 'Home' %}
           <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
         {% endif %}
