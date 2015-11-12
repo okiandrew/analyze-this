@@ -3,6 +3,7 @@ layout: default
 title: Analyze This! by ADB50
 alias: Mystery &#35;1
 comments: TRUE
+sort: 10
 ---
 # Corporate Strategies to Reduce Single Occupancy Vehicle Trips: Coca-Cola’s Case Study
 
