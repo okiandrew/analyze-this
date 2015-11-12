@@ -16,7 +16,7 @@
 
 </head>
 <body>
-Today's date is {{ date:'%Y%M%d' }}
+Today's date is {{ site.time | date:'%Y%M%d' }}
 <!--
   <div class="ovrhder">
     <div class="margin" style="background-color: red;"></div>
@@ -40,7 +40,8 @@ Today's date is {{ date:'%Y%M%d' }}
       <!-- <li><a href="{{ site.baseurl }}">Home</a></li> -->
       {% assign sorted_pages = site.pages | sort:"sort" %}
       {% for page in sorted_pages %}
-        {% if page.postdate =< date:'%Y%M%d' %}
+        {% assign d = site.time | date:'%Y%M%d'}
+        {% if page.postdate =< d %}
           <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
         {% endif %}
       {% endfor %}
