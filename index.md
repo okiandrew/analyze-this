@@ -19,7 +19,8 @@ We selected three problems from dozens of submissions that range from corporate,
 [Add to your TRB Program](https://annualmeeting.mytrb.org/interactiveprogram/Details/2472)
 
 #Workshop Agenda
-|-----|--------------------------------------------------------------------|
+| Time | .                                                                 |
+| --- | ------------------------------------------------------------------ |
 |9:00 | Introduction and overview                                          |
 |9:15 | Presentations giving overview of the three problems                |
 |9:35 | Team organization                                                  |
@@ -27,4 +28,3 @@ We selected three problems from dozens of submissions that range from corporate,
 |10:45 | Team presentations and discussion                                 |
 |11:45 | What next? Followthru.                                            |
 |12:00 | Adjourn                                                           |
-|------|-------------------------------------------------------------------|
