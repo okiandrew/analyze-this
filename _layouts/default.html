@@ -42,8 +42,9 @@
       {% for page in sorted_pages %}
         {% assign pd = page.postdate %}
 
+        {% if today > pd %}
           <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
-
+        {% endif %}
       {% endfor %}
       <!-- <li><a href="https://docs.google.com/forms/d/19cytWbKCIrQpjir5Ie6vuu64XCzRX8uD60yPvJy8C14/viewform">Submit Problem</a>-->
     </ul>
