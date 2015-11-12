@@ -3,6 +3,7 @@ layout: default
 title: About Analyze This!
 alias: About
 comments: FALSE
+sort: 2
 ---
 # The Workshop
 
