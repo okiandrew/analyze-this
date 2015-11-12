@@ -5,7 +5,6 @@ alias: Mystery &#35;1
 comments: TRUE
 sort: 10
 postdate: 20151207
-postme: FALSE
 ---
 # Corporate Strategies to Reduce Single Occupancy Vehicle Trips: Coca-Cola’s Case Study
 
