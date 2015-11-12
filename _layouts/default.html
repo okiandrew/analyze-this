@@ -40,10 +40,9 @@ Today's date is {{ site.time | date:'%Y%M%d' }}
       <!-- <li><a href="{{ site.baseurl }}">Home</a></li> -->
       {% assign sorted_pages = site.pages | sort:"sort" %}
       {% for page in sorted_pages %}
-        {% assign d = site.time | date:'%Y%M%d' %}
-        {% if page.postdate =< d %}
+
           <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
-        {% endif %}
+
       {% endfor %}
       <!-- <li><a href="https://docs.google.com/forms/d/19cytWbKCIrQpjir5Ie6vuu64XCzRX8uD60yPvJy8C14/viewform">Submit Problem</a>-->
     </ul>
