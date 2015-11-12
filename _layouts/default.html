@@ -41,7 +41,7 @@
       {% assign today = site.time | date:'%Y%m%d' %}
       {% for page in sorted_pages %}
         {% assign pd = page.pdate %}
-        {% if today > pd %}
+        {% if today >= pd %}
           <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
         {% endif %}
       {% endfor %}
