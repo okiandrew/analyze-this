@@ -18,6 +18,8 @@ Our world is changing and so are the questions being asked by companies, planner
 
 We selected three problems from dozens of submissions that range from corporate, local, and regional in scope and require a diversity of expertise to solve.  Working in small, problem specific teams, workshop participants will develop a strategy to share with the audience, compare and evaluate their peers, and then collectively develop some next steps and potential research directions.
 
+**Stay tuned, the first mystery will be unveiled on Mystery Monday, December 7th!**
+
 [Add to your TRB Program](https://annualmeeting.mytrb.org/interactiveprogram/Details/2472)
 
 #Workshop Agenda
