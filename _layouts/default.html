@@ -36,12 +36,12 @@
     <p class="header">{{ site.tagline }}</p>
     <!-- can we match this page to one of the loop below and not show it? -->
     <ul>
-      <li><a href="{{ site.baseurl }}">Home</a></li>
+      <!-- <li><a href="{{ site.baseurl }}">Home</a></li> -->
       {% assign sorted_pages = site.pages | sort:"sort" %}
       {% for page in sorted_pages %}
-        {% if page.alias != 'Home' %}
+        <!-- {% if page.alias != 'Home' %} -->
           <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
-        {% endif %}
+        <!-- {% endif %} -->
       {% endfor %}
       <!-- <li><a href="https://docs.google.com/forms/d/19cytWbKCIrQpjir5Ie6vuu64XCzRX8uD60yPvJy8C14/viewform">Submit Problem</a>-->
     </ul>
