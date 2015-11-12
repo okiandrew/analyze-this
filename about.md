@@ -31,17 +31,25 @@ This workshop is a production of ADB50, the TRB Standing Committee on Planning A
 **ADB50 Planning Applications**
 
 Rhett Fussell - Parsons Brinckerhoff
+
 Marty Milkovits - Cambridge Systematics
+
 Nick Wood - TTI
+
 Andrew Rohne - OKI
+
 Elizabeth Sall - UrbanLabs LLC
+
 Julie Dunbar - Dunbar Transportation
 
 **AP025 Public Transportation**
 
 Veronica Davis - Nspire Green
+
 Natalie Stiffler - City of Boulder, CO
+
 Allison Davis - WMATA
+
 Nick Lownes - University of Connecticut
 
 **ADB40 Travel Demand Forecasting**
@@ -51,4 +59,5 @@ Surabhi Gupta - Parsons Brinckerhoff
 **ABE50 Travel Demand Management Committee**
 
 Bill Loudon - DKS Associates
+
 Tien-Tien Chan - City of Austin, TX
