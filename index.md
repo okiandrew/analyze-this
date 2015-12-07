@@ -18,7 +18,10 @@ Our world is changing and so are the questions being asked by companies, planner
 
 We selected three problems from dozens of submissions that range from corporate, local, and regional in scope and require a diversity of expertise to solve.  Working in small, problem specific teams, workshop participants will develop a strategy to share with the audience, compare and evaluate their peers, and then collectively develop some next steps and potential research directions.
 
-**Stay tuned, the first mystery will be unveiled on Mystery Monday, December 7th!**
+The first mystery is [Corporate Strategies to Reduce Single Occupancy Vehicle Trips](mystery1.html)
+
+
+**Stay tuned, the second mystery will be unveiled on Mystery Monday, December 14th!**
 
 [Add to your TRB Program](https://annualmeeting.mytrb.org/interactiveprogram/Details/2472)
 
