@@ -20,8 +20,9 @@ We selected three problems from dozens of submissions that range from corporate,
 
 The first mystery is [Corporate Strategies to Reduce Single Occupancy Vehicle Trips](mystery1.html)
 
+The second mystery is [Repurposing Travel Lanes for Multimodal Projects](mystery2.html)
 
-**Stay tuned, the second mystery will be unveiled on Mystery Monday, December 14th!**
+**Stay tuned, the third and final mystery will be unveiled on Mystery Monday, December 21th!**
 
 [Add to your TRB Program](https://annualmeeting.mytrb.org/interactiveprogram/Details/2472)
 
