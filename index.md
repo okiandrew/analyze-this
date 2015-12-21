@@ -22,6 +22,8 @@ The first mystery is [Corporate Strategies to Reduce Single Occupancy Vehicle Tr
 
 The second mystery is [Repurposing Travel Lanes for Multimodal Projects](mystery2.html)
 
+The third mystery is [Incorporating Connected and Autonomous Vehicle (C/AV) Technologies into the City of Edmonton Regional Travel Demand Model](mystery3.html)
+
 **Stay tuned, the third and final mystery will be unveiled on Mystery Monday, December 21th!**
 
 [Add to your TRB Program](https://annualmeeting.mytrb.org/interactiveprogram/Details/2472)
