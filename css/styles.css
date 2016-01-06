@@ -226,7 +226,7 @@ header {
 	background-color: #171717;
 	color: #FDFDFB;
   width:170px;
-  left: 700px;
+  left: 750px;
   float:right;
   position:fixed;
 	border: 1px solid #000;
@@ -352,11 +352,17 @@ a.email{
 }
 
 section {
-  width:650px;
+  width:440px;
   float:left;
   padding-bottom:50px;
+  padding-right:10px;
 }
 
+#twitsearch {
+  padding-top: 30px;
+  right: 900px;
+  top: 84px;
+}
 
 @media print, screen and (max-width: 960px) {
 
@@ -365,7 +371,7 @@ section {
     margin:0;
   }
 
-  header, section, footer {
+  header, section, footer, .twitter{
     float:none;
     position:static;
     width:auto;
@@ -395,6 +401,12 @@ section {
     right:130px;
     top:84px;
   }
+
+  #twitsearch {
+    position: absolute;
+    right: 900px;
+    top: 84px;
+  }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -419,6 +431,12 @@ section {
   header ul, header p.view {
     position:static;
   }
+
+  .twitsearch {
+    position: absolute;
+    right: 250px;
+    top: 84px;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
@@ -434,6 +452,12 @@ section {
 	footer a{
 		display:block;
 	}
+
+  .twitsearch {
+    position: absolute;
+    right: 200px;
+    top: 84px;
+  }
 
 }
 

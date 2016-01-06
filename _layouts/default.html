@@ -14,6 +14,18 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+  <script>
+    !function(d,s,id){
+      var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+      if(!d.getElementById(id))
+      {
+        js=d.createElement(s);js.id=id;
+        js.src=p+"://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js,fjs);
+      }
+    }(document,"script","twitter-wjs");
+  </script>
+
 </head>
 <body>
 <!--
@@ -61,6 +73,14 @@
       </ul>
     </div><!-- misc -->
   </header>
+
+  <div id="twitsearch">
+    <a class="twitter-timeline"
+      href="https://twitter.com/hashtag/TRBAnalyzeThis"
+      data-widget-id="684734135601115136"
+      width="250"
+      height="655">#TRBAnalyzeThis Tweets</a>
+  </div>
 
 </div>
 

@@ -24,8 +24,6 @@ The second mystery is [Repurposing Travel Lanes for Multimodal Projects](mystery
 
 The third mystery is [Incorporating Connected and Autonomous Vehicle (C/AV) Technologies into the City of Edmonton Regional Travel Demand Model](mystery3.html)
 
-**Stay tuned, the third and final mystery will be unveiled on Mystery Monday, December 21th!**
-
 [Add to your TRB Program](https://annualmeeting.mytrb.org/interactiveprogram/Details/2472)
 
 #Workshop Agenda
