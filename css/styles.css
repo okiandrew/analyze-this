@@ -403,7 +403,7 @@ section {
   }
 
   #twitsearch {
-    position: absolute;
+    padding-top: 30px;
     right: 900px;
     top: 84px;
   }
@@ -432,9 +432,9 @@ section {
     position:static;
   }
 
-  .twitsearch {
-    position: absolute;
-    right: 250px;
+  #twitsearch {
+    padding-top: 30px;
+    right: 900px;
     top: 84px;
   }
 }
@@ -453,9 +453,9 @@ section {
 		display:block;
 	}
 
-  .twitsearch {
-    position: absolute;
-    right: 200px;
+  #twitsearch {
+    padding-top: 30px;
+    right: 900px;
     top: 84px;
   }
 
