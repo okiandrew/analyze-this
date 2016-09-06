@@ -10,7 +10,7 @@ pdate: 0
 
 **WANTED**: Planning mystery detectives of all types including planners, engineers, analysts, modelers, psychologists, researchers, + pedestrians.
 
-**Report in person to:**  Workshop #114  Sunday, January 10, 2016  •  9 AM – 12 PM  •  TRB
+**Report in person to:**  [Workshop](https://annualmeeting.mytrb.org/Workshop/Details/5310) • Sunday, January 8, 2017  •  9 AM – 12 PM  •  TRB
 
 **Discuss online:** Here, when the individual mysteries are announced, or on Twitter [#trbanalyzethis](https://twitter.com/search?f=tweets&q=%23trbanalyzethis&src=typd)
 
@@ -18,22 +18,4 @@ Our world is changing and so are the questions being asked by companies, planner
 
 We selected three problems from dozens of submissions that range from corporate, local, and regional in scope and require a diversity of expertise to solve.  Working in small, problem specific teams, workshop participants will develop a strategy to share with the audience, compare and evaluate their peers, and then collectively develop some next steps and potential research directions.
 
-The first mystery is [Corporate Strategies to Reduce Single Occupancy Vehicle Trips](mystery1.html)
-
-The second mystery is [Repurposing Travel Lanes for Multimodal Projects](mystery2.html)
-
-The third mystery is [Incorporating Connected and Autonomous Vehicle (C/AV) Technologies into the City of Edmonton Regional Travel Demand Model](mystery3.html)
-
-[Add to your TRB Program](https://annualmeeting.mytrb.org/interactiveprogram/Details/2472)
-
-#Workshop Agenda
-
-| Time | Item                                                               |
-| ---- | ------------------------------------------------------------------ |
-| 9:00 | Introduction and overview                                          |
-| 9:15 | Presentations giving overview of the three problems                |
-| 9:35 | Team organization                                                  |
-| 9:45 | Teamwork on solutions and strategy to address planner problems     |
-| 10:45 | Team presentations and discussion                                 |
-| 11:45 | What next? Followthru.                                            |
-| 12:00 | Adjourn                                                           |
+[Add to your TRB Program](https://annualmeeting.mytrb.org/Workshop/Details/5310)
