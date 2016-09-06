@@ -10,9 +10,12 @@ pdate: 0
 
 Six standing committees of the Transportation Research Board (TRB) are coming together to sponsor a new type of interactive workshop for the 2017 Annual Meeting. The workshop entitled, “Analyze This! What YOU Want to Know” will present three intriguing, real-world problems faced by planners in the transportation industry. Working in small teams, participants will come up with strategies to address each problem and to share and learn amongst their peers. This workshop is intended to:
 amongst their peers.  This workshop is intended to:  
-(A) create an atmosphere where people with diverse backgrounds and skills interact and share ideas  
-(B) enable discussion of various approaches with a definite application but without a foregone conclusion
-(C) highlight areas where further research is needed to be helpful to the planning community
+
+<ol>
+<li style="list-style-type: upper-alpha;">create an atmosphere where people with diverse backgrounds and skills interact and share ideas</li>
+<li style="list-style-type: upper-alpha;">enable discussion of various approaches with a definite application but without a foregone conclusion</li>
+<li style="list-style-type: upper-alpha;">highlight areas where further research is needed to be helpful to the planning community</li>
+</ol>
 
 # Workshop Details
 
