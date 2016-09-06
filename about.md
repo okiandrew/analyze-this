@@ -35,36 +35,43 @@ This workshop is a production of ADB50, the TRB Standing Committee on Planning A
 
 # Organizing Committee
 
-**ADB50 Planning Applications**
+### Public Transportation
+<ol>
+<li style="list-style: none;">Veronica Davis</li>
+<li style="list-style: none;">Natalie Stiffler</li>
+<li style="list-style: none;">Allison Davis</li>
+<li style="list-style: none;">Nick Lownes</li>
+<li style="list-style: none;">Brendon Hemily (committee chair)</li>
+</ol>
 
-Rhett Fussell - Parsons Brinckerhoff
+### Planning Applications - ADB50
+<ol>
+<li style="list-style: none;">Rhett Fussell</li>
+<li style="list-style: none;">Marty Milkovits</li>
+<li style="list-style: none;">Nick Wood</li>
+<li style="list-style: none;">Andrew Rohne</li>
+<li style="list-style: none;">Elizabeth Sall</li>
+<li style="list-style: none;">Julie Dunbar (committee chair)</li>
+</ol>
 
-Marty Milkovits - Cambridge Systematics
+### Urban Transportation Data and Information Systems - ABJ30
+<ol>
+<li style="list-style: none;">Pat Coleman</li>
+<li style="list-style: none;">Phil Mescher</li>
+</ol>
 
-Nick Wood - TTI
+### Travel Demand Forecasting - ADB40
+<ol>
+<li style="list-style: none;">Surabhi Gupta</li>
+</ol>
 
-Andrew Rohne - OKI
+### Performance Management - ABC30
+<ol>
+<li style="list-style: none;">Mara Campbell (Committee Chair)</li>
+</ol>
 
-Elizabeth Sall - UrbanLabs LLC
-
-Julie Dunbar - Dunbar Transportation
-
-**AP025 Public Transportation**
-
-Veronica Davis - Nspire Green
-
-Natalie Stiffler - City of Boulder, CO
-
-Allison Davis - WMATA
-
-Nick Lownes - University of Connecticut
-
-**ADB40 Travel Demand Forecasting**
-
-Surabhi Gupta - Parsons Brinckerhoff
-
-**ABE50 Travel Demand Management Committee**
-
-Bill Loudon - DKS Associates
-
-Tien-Tien Chan - City of Austin, TX
+### Travel Demand Management - ABE50
+<ol>
+<li style="list-style: none;">Bill Loudon (Committee Chair)</li>
+<li style="list-style: none;">Stephen Crim</li>
+</ol>
