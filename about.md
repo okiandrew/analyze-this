@@ -27,18 +27,21 @@ The workshop is scheduled for 9 AM – 12 PM on the morning of Sunday, January 8
 
 # Sponsoring Committees
 
-This workshop is a production of ADB50, the TRB Standing Committee on Planning Applications. The following committees are acting as co-sponsors to help us both source/recruit interesting problems/qualified analysts:
+The Workshop is a joint production of six sponsoring committees and volunteers from these committees are helping to source/recruit interesting problems/qualified analysts, and lead the workshop.
 
+* AP025 Public Transportation Planning and Development
+* ADB50 Planning Applications
 * ADB40 Travel Demand Modeling
-* AP025 Public Transportation Planning
 * ABE50 Transportation Demand Management
+* ABJ30 Urban Transportation Data and Information Systems
+* ABC30 Performance Management
 
 # Organizing Committee
 
-### Public Transportation
+### Public Transportation Planning and Development - APO25
 <ol>
-<li style="list-style: none;">Veronica Davis</li>
 <li style="list-style: none;">Natalie Stiffler</li>
+<li style="list-style: none;">Veronica Davis</li>
 <li style="list-style: none;">Allison Davis</li>
 <li style="list-style: none;">Nick Lownes</li>
 <li style="list-style: none;">Brendon Hemily (committee chair)</li>
@@ -46,12 +49,23 @@ This workshop is a production of ADB50, the TRB Standing Committee on Planning A
 
 ### Planning Applications - ADB50
 <ol>
-<li style="list-style: none;">Rhett Fussell</li>
 <li style="list-style: none;">Marty Milkovits</li>
+<li style="list-style: none;">Rhett Fussell</li>
 <li style="list-style: none;">Nick Wood</li>
 <li style="list-style: none;">Andrew Rohne</li>
 <li style="list-style: none;">Elizabeth Sall</li>
 <li style="list-style: none;">Julie Dunbar (committee chair)</li>
+</ol>
+
+### Travel Demand Forecasting - ADB40
+<ol>
+<li style="list-style: none;">Surabhi Gupta</li>
+</ol>
+
+### Travel Demand Management - ABE50
+<ol>
+<li style="list-style: none;">Bill Loudon (Committee Chair)</li>
+<li style="list-style: none;">Stephen Crim</li>
 </ol>
 
 ### Urban Transportation Data and Information Systems - ABJ30
@@ -60,18 +74,7 @@ This workshop is a production of ADB50, the TRB Standing Committee on Planning A
 <li style="list-style: none;">Phil Mescher</li>
 </ol>
 
-### Travel Demand Forecasting - ADB40
-<ol>
-<li style="list-style: none;">Surabhi Gupta</li>
-</ol>
-
 ### Performance Management - ABC30
 <ol>
 <li style="list-style: none;">Mara Campbell (Committee Chair)</li>
-</ol>
-
-### Travel Demand Management - ABE50
-<ol>
-<li style="list-style: none;">Bill Loudon (Committee Chair)</li>
-<li style="list-style: none;">Stephen Crim</li>
 </ol>
