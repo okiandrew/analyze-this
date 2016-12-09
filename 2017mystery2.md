@@ -17,25 +17,19 @@ There has been great promise on this frontier. Technology and data can greatly a
 This begs the following questions:
 
 * Why haven’t private parking information apps found their way into our smartphones in a way that results in less excess parking supply (including popular navigation tools like Google Maps and Waze)? (Note, a Waze integration trial is pending)
-
 * Have you witnessed instances where parking information apps have increased shared parking within the private parking supply? What has worked well and can it be scaled up?
-
 * What are the policy and operational tools available to cities to either allow, encourage, incentivize, or require parking information sharing schemes to include private operators?
 
 Some potential theories on the challenges:
 
 * No app has gained sufficient share of the private parking supply market. The lack of integration into popular guidance apps (Waze, Google Maps, etc.), as well as in-vehicle navigation systems, limits the ability to distribute parking information to a broad audience.
-
 * Most of the existing apps are not necessarily focused on saving people time by helping them park more quickly, but are more focused on price competition. Most cities in US do not charge for parking systematically, so it’s hard for private parking apps to turn a profit on the information.
-
 * Consumers inherently prefer integrated apps that include parking pricing, guidance, payment, and reservations, or multimodal transportation options.
-
 * Private parking operators prefer low-maintenance business models.
 
 Let’s also consider the broader arch of data sharing and vehicle technology to figure out what the upcoming opportunities are:
 
 * Perhaps in the near future we will reach the “next level” of parking data integration into navigation tools like Waze and Google Maps, and in-vehicle navigation tools. These tools have clear market dominance and will be in position to deploy it most broadly.
-
 * How should we prepare our parking data, operations, and policies to be ready for an autonomous, shared vehicle future? Parking availability data will presumably be more accessible, thereby allowing for increased sharing of parking supply and availability information and less need for visual communication of parking assets (i.e., signs).
 
 ## Assignment
