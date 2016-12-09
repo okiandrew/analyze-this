@@ -51,8 +51,9 @@
       <!-- <li><a href="{{ site.baseurl }}">Home</a></li> -->
       {% assign sorted_pages = site.pages | sort:"sort" %}
       {% for page in sorted_pages %}
-        <!-- {{ page.url }} - {{ page.alias }} -->
-          <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
+          {% unless page.extname == "html" %}
+            <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
+          {% endunless %}
       {% endfor %}
       <!-- <li><a href="https://docs.google.com/forms/d/19cytWbKCIrQpjir5Ie6vuu64XCzRX8uD60yPvJy8C14/viewform">Submit Problem</a>-->
       <!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScyEvHju9GYDeRyWy7dYeGOiIszelVCPqP-TkPnVHHbfCNVXw/viewform">Submit Problem</a></li> -->
