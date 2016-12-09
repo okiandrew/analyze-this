@@ -48,11 +48,11 @@
     <p class="header">{{ site.tagline }}</p>
     <!-- can we match this page to one of the loop below and not show it? -->
     <ul>
-      <!-- version 1 -->
+      <!-- version 2 -->
       {% assign sorted_pages = site.pages | sort:"sort" %}
       {% for page in sorted_pages %}
           <!-- {{ page.alias }} -->
-          {% if page.alias != '' %}
+          {% if page.alias != blank %}
             <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
           {% endif %}
       {% endfor %}
