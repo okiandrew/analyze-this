@@ -48,10 +48,9 @@
     <p class="header">{{ site.tagline }}</p>
     <!-- can we match this page to one of the loop below and not show it? -->
     <ul>
-      <!-- <li><a href="{{ site.baseurl }}">Home</a></li> -->
       {% assign sorted_pages = site.pages | sort:"sort" %}
       {% for page in sorted_pages %}
-          {% unless page.extname == "html" %}
+          {% unless page.alias != "" %}
             <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
           {% endunless %}
       {% endfor %}
