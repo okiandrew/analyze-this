@@ -50,9 +50,10 @@
     <ul>
       {% assign sorted_pages = site.pages | sort:"sort" %}
       {% for page in sorted_pages %}
-          {% unless page.alias != "" %}
+          <!-- {{ page.alias }} -->
+          {% if page.alias != '' %}
             <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
-          {% endunless %}
+          {% endif %}
       {% endfor %}
       <!-- <li><a href="https://docs.google.com/forms/d/19cytWbKCIrQpjir5Ie6vuu64XCzRX8uD60yPvJy8C14/viewform">Submit Problem</a>-->
       <!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScyEvHju9GYDeRyWy7dYeGOiIszelVCPqP-TkPnVHHbfCNVXw/viewform">Submit Problem</a></li> -->
