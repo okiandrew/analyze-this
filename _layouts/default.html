@@ -52,7 +52,7 @@
       {% assign sorted_pages = site.pages | sort:"sort" %}
       {% for page in sorted_pages %}
           <!-- {{ page.alias }} -->
-          {% if page.alias != blank %}
+          {% if page.alias != blank and page.alias != nil %}
             <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.alias }}</a></li>
           {% endif %}
       {% endfor %}
