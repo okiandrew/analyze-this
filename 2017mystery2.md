@@ -3,7 +3,7 @@ layout: default
 title: Analyze This! by ADB50
 alias: Mystery &#35;2
 comments: TRUE
-sort: 10
+sort: 11
 ---
 # Planning Mystery &#35;2
 Getting to Truly Shared Private Parking – Why Haven’t Shared Parking Data and Communications Tools Really Taken Off?
