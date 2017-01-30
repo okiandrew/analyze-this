@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Analyze This! by ADB50
-alias: Mystery &#35;2
+alias: 2017 Mystery &#35;2
 comments: TRUE
-sort: 11
+sort: 20172
 ---
 # Planning Mystery &#35;2
 Getting to Truly Shared Private Parking – Why Haven’t Shared Parking Data and Communications Tools Really Taken Off?
@@ -35,3 +35,27 @@ Let’s also consider the broader arch of data sharing and vehicle technology to
 ## Assignment
 
 This group will identify the potential factors currently inhibiting parking data and communications apps and efforts, develop an approach to a more successful system, and gauge city and private sector roles in accomplishing this vision. The group will also look ahead and strategize on how to better prepare for an information-driven parking sharing system.
+
+# Summary Report
+*prepared by Pat Coleman*
+
+* Many municipalities contain an overbuilt private parking supply that sits underutilized for half the day. Connecting users to these spaces to achieve more efficiency in the overall parking system is an obvious goal and is the type of problem that data, technology, and simple communications tools can solve.
+* What are the policy and operational tools available to cities to either allow, encourage, incentivize, or require parking information sharing schemes to include private operators?
+
+## Tables facilitated by Elizabeth Sall/Bill Loudon and Sean Sweat/Lauren Mattern.
+
+Lauren Mattern presented findings for both tables:
+
+* One table tended to examine user experience and the other policy experience
+* Differing management models were discussed including the (lack of) incentive for a centralized database
+* How to manage supply – users tend to prefer  a public system;  clarity is the top consumer expectation
+* Is it time for expanding “what has worked” – formalize approaches not work; user experience, etc.   Need to craft a vision and leadership role
+* Data key to puzzle:  planning mechanisms, etc.
+* Best practices tend toward simpler regulations
+* Need to build a case do a pilot, etc.
+
+## Session Notes (Courtesy of Parker Sorenson)
+
+We had a bit of a conversation regarding how government agencies could work to standardize datasets for parking in working towards a desire for a single dataset with both public and private parking information. It appears from the conversation we had at our table that no such standardized format exists for this type data at this time. I made an analogy to how the GTFS data format has been revolutionary for how users interface with public transit, and wondered if it would be appropriate for TRB to pursue research focused on developing such a standard for parking as well.
+
+Of course, public agencies would only truly be able to control publicly controlled parking assets, but as we have seen from other cases, private industry seems compelled to contribute to providing more information to consumers when their competition do the same. Additionally, we wondered if such a scheme could allow for a data-sharing agreement where parking information could be fed back to transportation planners.
